@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauravtak/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Tak-blue?logo=linkedin" /></a>
-  <a href="https://medium.com/@gauravtak"><img src="https://img.shields.io/badge/Medium-%40gauravtak-black?logo=medium" /></a>
+  <a href="https://medium.com/@gauravtakjaipur"><img src="https://img.shields.io/badge/Medium-%40gauravtakjaipur-black?logo=medium" /></a>
   <a href="mailto:gauravtak.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gauravtak.dev%40gmail.com-red?logo=gmail" /></a>
 </p>
 
