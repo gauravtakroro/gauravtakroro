@@ -33,7 +33,7 @@
 
 #### ☁️ Backend & Integrations
 - Firebase / Firestore  
-- REST APIs, IoT communication (BLE, MQTT)  
+- REST APIs, IoT communication (BLE)  
 - Stripe Embedded Onboarding & Apple Pay integration  
 
 #### 🧰 Tools & Practices
