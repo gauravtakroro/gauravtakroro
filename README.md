@@ -51,6 +51,8 @@
 | 🚗 **Smart Parking App** | App Clip–based parking payment with Apple Pay | SwiftUI, CoreLocation, Firebase |
 | 🩺 **Step Tracker** | Daily step counter using Google Fit API | Android, Kotlin, OAuth2 |
 | 🔒 **Ojmar Locker IoT** | Smart locker control via BLE & React Native | Swift, React Native Bridge |
+| 🔒 **Harbor Locker IoT** | Smart locker control via BLE & iOS/Android | Swift, Android |
+| 🔒 **Golf Range Finder & Golf Smart Speaker IoT** | Laser distance control and distance speaking control via BLE & iOS/Android | Swift, Android |
 | 💰 **Stripe Onboarding** | Custom connected accounts integration | Stripe API, React Native |
 
 ---
