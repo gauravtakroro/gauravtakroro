@@ -3,14 +3,18 @@ on:
   schedule:
     - cron: '0 */6 * * *' # every 6 hours
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   update-readme-with-blog:
     name: Update README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@gauravtakjaipur"
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+         
