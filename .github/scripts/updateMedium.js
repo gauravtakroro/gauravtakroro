@@ -6,7 +6,7 @@ const parser = new Parser();
   try {
     const feed = await parser.parseURL("https://medium.com/feed/@gauravtakjaipur");
 
-    const latestPosts = feed.items.slice(0, 5).map(item => {
+    const latestPosts = feed.items.slice(0, 10).map(item => {
       const title = item.title.replace(/"/g, '\\"');
       const link = item.link;
       const date = new Date(item.isoDate).toLocaleDateString("en-IN", {
