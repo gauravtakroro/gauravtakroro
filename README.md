@@ -20,7 +20,7 @@
 💡 Passionate about crafting impactful **mobile experiences** and **IoT solutions** that merge design, performance, and innovation.  
 👨‍💻 Leading mobile development as a **Tech Lead**, focusing on architecture, scalability, and developer growth.  
 🌱 Currently exploring **Swift concurrency**, **Clean Architecture**, and **Engineering Management** best practices.  
-💬 I love writing about Swift, iOS internals, and developer leadership — check my [Medium blog](https://medium.com/@gauravtak).  
+💬 I love writing about Swift, iOS internals, and developer leadership — check my [Medium blog](https://medium.com/@gauravtakjaipur).  
 
 ---
 
