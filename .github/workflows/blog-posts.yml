@@ -1,7 +1,7 @@
 name: Update Medium Blog Posts
 on:
   schedule:
-    - cron: "0 */1 * * *" # every 12 hours
+    - cron: "0 */6 * * *" # every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,7 @@ jobs:
         run: npm install puppeteer
 
       - name: Fetch latest Medium posts with claps/views
-        run: node .github/scripts/fetchMediumPopular.js
+        run: node .github/scripts/updateMedium.js
 
       - name: Commit and push if changed
         run: |
