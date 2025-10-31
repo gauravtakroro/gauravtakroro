@@ -4,6 +4,9 @@ const puppeteer = require("puppeteer");
 const MEDIUM_URL = "https://medium.com/@gauravtakjaipur/latest";
 const README_PATH = "README.md";
 
+// Universal sleep helper
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: true,
@@ -14,13 +17,12 @@ const README_PATH = "README.md";
   console.log("🌐 Navigating to Medium profile...");
   await page.goto(MEDIUM_URL, { waitUntil: "domcontentloaded", timeout: 60000 });
 
-  // Try to scroll and trigger lazy loading
-  let previousHeight;
+  // Scroll and load all posts (handles lazy loading)
   try {
-    previousHeight = await page.evaluate("document.body.scrollHeight");
+    let previousHeight = await page.evaluate("document.body.scrollHeight");
     while (true) {
       await page.evaluate("window.scrollTo(0, document.body.scrollHeight)");
-      await page.waitFor(3000);
+      await delay(1500);
       const newHeight = await page.evaluate("document.body.scrollHeight");
       if (newHeight === previousHeight) break;
       previousHeight = newHeight;
@@ -29,8 +31,9 @@ const README_PATH = "README.md";
     console.warn("⚠️ Scroll loading may have stopped early:", err.message);
   }
 
-  // Wait a bit more and retry selector
-  await page.waitForTimeout(3000);
+  // Wait extra time for lazy-loaded posts
+  await delay(3000);
+
   const articles = await page.$$("article");
   if (articles.length === 0) {
     console.error("❌ No articles found — Medium page structure might have changed.");
@@ -70,7 +73,7 @@ const README_PATH = "README.md";
 
   await browser.close();
 
-  // Sort by views descending
+  // Sort by views (or claps if views are missing)
   const topPosts = posts
     .filter((p) => p.link)
     .sort((a, b) => b.views - a.views || b.claps - a.claps)
