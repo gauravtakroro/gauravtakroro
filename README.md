@@ -73,10 +73,9 @@
 
 ---
 
-### 📝 Latest Medium Blogs  
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📝 Latest Medium Blog Posts
+<!-- MEDIUM-BLOG-START -->
+<!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
 
