@@ -20,7 +20,7 @@ const README_PATH = "README.md";
     previousHeight = await page.evaluate("document.body.scrollHeight");
     while (true) {
       await page.evaluate("window.scrollTo(0, document.body.scrollHeight)");
-      await page.waitForTimeout(1500);
+      await page.waitFor(3000);
       const newHeight = await page.evaluate("document.body.scrollHeight");
       if (newHeight === previousHeight) break;
       previousHeight = newHeight;
