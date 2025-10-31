@@ -1,34 +1,91 @@
-const fs = require("fs");
-const Parser = require("rss-parser");
-const parser = new Parser();
+import fs from "fs";
+import puppeteer from "puppeteer";
+
+const MEDIUM_URL = "https://medium.com/@gauravtakjaipur/latest";
+const README_PATH = "README.md";
 
 (async () => {
-  try {
-    const feed = await parser.parseURL("https://medium.com/feed/@gauravtakjaipur");
+  const browser = await puppeteer.launch({ headless: true, args: ["--no-sandbox"] });
+  const page = await browser.newPage();
+  await page.goto(MEDIUM_URL, { waitUntil: "networkidle2" });
 
-    const latestPosts = feed.items.slice(0, 10).map(item => {
-      const title = item.title.replace(/"/g, '\\"');
-      const link = item.link;
-      const date = new Date(item.isoDate).toLocaleDateString("en-IN", {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
-      return `- [${title}](${link}) *(Published on ${date})*`;
-    }).join("\n");
+  // Wait for articles to load
+  await page.waitForSelector("article");
 
-    const readmePath = "README.md";
-    const readmeContent = fs.readFileSync(readmePath, "utf8");
+  const posts = await page.$$eval("article", articles =>
+    articles.map(article => {
+      const titleEl = article.querySelector("h2, h1");
+      const title = titleEl ? titleEl.textContent.trim() : "Untitled";
 
-    const updatedContent = readmeContent.replace(
-      /(<!-- MEDIUM-BLOG-START -->)([\s\S]*?)(<!-- MEDIUM-BLOG-END -->)/,
-      `$1\n${latestPosts}\n$3`
-    );
+      const linkEl = article.querySelector("a");
+      const link = linkEl ? linkEl.href.split("?")[0] : null;
 
-    fs.writeFileSync(readmePath, updatedContent);
-    console.log("✅ README updated with latest Medium posts!");
-  } catch (error) {
-    console.error("❌ Failed to update Medium posts:", error);
-    process.exit(1);
-  }
+      const clapEl = article.querySelector("button[data-action='show-recommends']");
+      const claps = clapEl ? clapEl.textContent.replace("K", "000").trim() : "0";
+
+      const viewsEl = article.querySelector("span:contains('views')");
+      const views = viewsEl ? viewsEl.textContent.replace("views", "").trim() : "0";
+
+      return { title, link, claps: parseInt(claps) || 0, views: parseInt(views) || 0 };
+    })
+  );
+
+  await browser.close();
+
+  // Sort by views or claps
+  const topPosts = posts
+    .filter(p => p.link)
+    .sort((a, b) => b.views - a.views)
+    .slice(0, 5);
+
+  const blogList = topPosts
+    .map(
+      p =>
+        `- [${p.title}](${p.link}) — 👏 ${p.claps.toLocaleString()} claps | 👁️ ${p.views.toLocaleString()} views`
+    )
+    .join("\n");
+
+  const readme = fs.readFileSync(README_PATH, "utf8");
+  const updated = readme.replace(
+    /(<!-- MEDIUM-BLOG-START -->)([\s\S]*?)(<!-- MEDIUM-BLOG-END -->)/,
+    `$1\n${blogList}\n$3`
+  );
+
+  fs.writeFileSync(README_PATH, updated);
+  console.log("✅ Updated README with top Medium posts");
 })();
+
+// const fs = require("fs");
+// const Parser = require("rss-parser");
+// const parser = new Parser();
+
+// (async () => {
+//   try {
+//     const feed = await parser.parseURL("https://medium.com/feed/@gauravtakjaipur");
+
+//     const latestPosts = feed.items.slice(0, 10).map(item => {
+//       const title = item.title.replace(/"/g, '\\"');
+//       const link = item.link;
+//       const date = new Date(item.isoDate).toLocaleDateString("en-IN", {
+//         year: "numeric",
+//         month: "short",
+//         day: "numeric",
+//       });
+//       return `- [${title}](${link}) *(Published on ${date})*`;
+//     }).join("\n");
+
+//     const readmePath = "README.md";
+//     const readmeContent = fs.readFileSync(readmePath, "utf8");
+
+//     const updatedContent = readmeContent.replace(
+//       /(<!-- MEDIUM-BLOG-START -->)([\s\S]*?)(<!-- MEDIUM-BLOG-END -->)/,
+//       `$1\n${latestPosts}\n$3`
+//     );
+
+//     fs.writeFileSync(readmePath, updatedContent);
+//     console.log("✅ README updated with latest Medium posts!");
+//   } catch (error) {
+//     console.error("❌ Failed to update Medium posts:", error);
+//     process.exit(1);
+//   }
+// })();
