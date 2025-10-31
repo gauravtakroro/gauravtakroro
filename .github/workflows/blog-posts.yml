@@ -1,20 +1,34 @@
 name: Update Medium Blog Posts
 on:
   schedule:
-    - cron: '0 */6 * * *' # every 6 hours
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest Medium posts
+  update-medium:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          feed_list: "https://medium.com/feed/@gauravtakjaipur"
-          readme_path: "./README.md"
-          comment_tag_name: "BLOG-POST-LIST"
-         
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Fetch latest Medium posts
+        run: node .github/scripts/updateMedium.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "gauravtakroro"
+          git config user.email "gaurav.tak@roro.io"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update Medium blog posts"
+          git push
