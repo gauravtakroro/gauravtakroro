@@ -1,7 +1,7 @@
 name: Update Medium Blog Posts
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */1 * * *" # every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -20,15 +20,50 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: npm install rss-parser
+        run: npm install puppeteer
 
-      - name: Fetch latest Medium posts
-        run: node .github/scripts/updateMedium.js
+      - name: Fetch latest Medium posts with claps/views
+        run: node .github/scripts/fetchMediumPopular.js
 
       - name: Commit and push if changed
         run: |
           git config user.name "gauravtakroro"
           git config user.email "gaurav.tak@roro.io"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update Medium blog posts"
+          git diff --quiet && git diff --staged --quiet || git commit -m "🔥 Update top Medium posts"
           git push
+
+# name: Update Medium Blog Posts
+# on:
+#   schedule:
+#     - cron: "0 */6 * * *" # every 6 hours
+#   workflow_dispatch:
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   update-medium:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repo
+#         uses: actions/checkout@v4
+
+#       - name: Setup Node.js
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: "18"
+
+#       - name: Install dependencies
+#         run: npm install rss-parser
+
+#       - name: Fetch latest Medium posts
+#         run: node .github/scripts/updateMedium.js
+
+#       - name: Commit and push if changed
+#         run: |
+#           git config user.name "gauravtakroro"
+#           git config user.email "gaurav.tak@roro.io"
+#           git add README.md
+#           git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update Medium blog posts"
+#           git push
