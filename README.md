@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Why Mobile Apps Fail: Key Principles for Success Every Mobile Architect Should Know](https://gauravtakjaipur.medium.com/why-mobile-apps-fail-key-principles-for-success-every-mobile-architect-should-know-ce7ad842dec8?source=rss-223110f75295------2) *(Published on 4 Nov 2025)*
 - [Mastering Swift Concurrency: How Actors and Structured Tasks Make iOS Apps Safer and Faster](https://gauravtakjaipur.medium.com/mastering-swift-concurrency-how-actors-and-structured-tasks-make-ios-apps-safer-and-faster-88c169b2d655?source=rss-223110f75295------2) *(Published on 3 Nov 2025)*
 - [Escaping vs Non-Escaping Closures in Swift : The Deep Dive Every iOS Dev Should Know](https://gauravtakjaipur.medium.com/escaping-vs-non-escaping-closures-in-swift-the-deep-dive-every-ios-dev-should-know-117dfaff54b0?source=rss-223110f75295------2) *(Published on 30 Oct 2025)*
 - [15+ Tricky Android Developer Interview Questions You Should Master (With Deep Explanations)](https://gauravtakjaipur.medium.com/15-tricky-android-developer-interview-questions-you-should-master-with-deep-explanations-4e0e6d9b7c89?source=rss-223110f75295------2) *(Published on 29 Oct 2025)*
@@ -84,7 +85,6 @@
 - [Step-by-Step Guide: Building a Secure Biometric & PIN Authentication Flow in Android](https://gauravtakjaipur.medium.com/step-by-step-guide-building-a-secure-biometric-pin-authentication-flow-in-android-db2a8f8cba5e?source=rss-223110f75295------2) *(Published on 27 Oct 2025)*
 - [Bring Your SwiftUI Apps to Life: 7 Playful Micro-Interactions Every iOS Developer should know](https://gauravtakjaipur.medium.com/bring-your-swiftui-apps-to-life-7-playful-micro-interactions-every-ios-developer-should-know-68d24840d1b9?source=rss-223110f75295------2) *(Published on 25 Oct 2025)*
 - [Should We Support Offline Flow in Our SwiftUI App? A Practical Guide for iOS Developers](https://gauravtakjaipur.medium.com/should-we-support-offline-flow-in-our-swiftui-app-a-practical-guide-for-ios-developers-118c00c793d9?source=rss-223110f75295------2) *(Published on 23 Oct 2025)*
-- [CardStyle vs GroupBox in SwiftUI: Choosing the Right Container for Our Views](https://gauravtakjaipur.medium.com/cardstyle-vs-groupbox-in-swiftui-choosing-the-right-container-for-our-views-95362796c8f7?source=rss-223110f75295------2) *(Published on 23 Oct 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
