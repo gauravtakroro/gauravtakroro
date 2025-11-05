@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [SwiftUI Performance Secret: Why LazyVStack Should Replace Our VStack in ScrollViews](https://gauravtakjaipur.medium.com/swiftui-performance-secret-why-lazyvstack-should-replace-our-vstack-in-scrollviews-0d3b19bd9708?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [10 Essential Questions Every iOS Developer Should Master Before a Team Lead Interview](https://gauravtakjaipur.medium.com/10-essential-questions-every-ios-developer-should-master-before-a-team-lead-interview-dedf2b6f3c36?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [Why Mobile Apps Fail: Key Principles for Success Every Mobile Architect Should Know](https://gauravtakjaipur.medium.com/why-mobile-apps-fail-key-principles-for-success-every-mobile-architect-should-know-ce7ad842dec8?source=rss-223110f75295------2) *(Published on 4 Nov 2025)*
 - [Mastering Swift Concurrency: How Actors and Structured Tasks Make iOS Apps Safer and Faster](https://gauravtakjaipur.medium.com/mastering-swift-concurrency-how-actors-and-structured-tasks-make-ios-apps-safer-and-faster-88c169b2d655?source=rss-223110f75295------2) *(Published on 3 Nov 2025)*
@@ -84,7 +85,6 @@
 - [Bridging the Gap: Step-by-Step Guide to Integrate Native iOS SDK into React Native](https://gauravtakjaipur.medium.com/bridging-the-gap-step-by-step-guide-to-integrate-native-ios-sdk-into-react-native-5461ccab9229?source=rss-223110f75295------2) *(Published on 28 Oct 2025)*
 - [Step-by-Step Guide: Implement Face ID, Touch ID, or Passcode Authentication in Our iOS App…](https://gauravtakjaipur.medium.com/step-by-step-guide-implement-face-id-touch-id-or-passcode-authentication-in-our-ios-app-f53b3efa005b?source=rss-223110f75295------2) *(Published on 27 Oct 2025)*
 - [Step-by-Step Guide: Building a Secure Biometric & PIN Authentication Flow in Android](https://gauravtakjaipur.medium.com/step-by-step-guide-building-a-secure-biometric-pin-authentication-flow-in-android-db2a8f8cba5e?source=rss-223110f75295------2) *(Published on 27 Oct 2025)*
-- [Bring Your SwiftUI Apps to Life: 7 Playful Micro-Interactions Every iOS Developer should know](https://gauravtakjaipur.medium.com/bring-your-swiftui-apps-to-life-7-playful-micro-interactions-every-ios-developer-should-know-68d24840d1b9?source=rss-223110f75295------2) *(Published on 25 Oct 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
