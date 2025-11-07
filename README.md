@@ -75,16 +75,16 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Core Data vs SwiftData: The Ultimate Guide to Faster, Smarter iOS Apps](https://gauravtakjaipur.medium.com/core-data-vs-swiftdata-the-ultimate-guide-to-faster-smarter-ios-apps-a3e3495224b3?source=rss-223110f75295------2) *(Published on 7 Nov 2025)*
 - [Protocols vs Delegates in Swift: The Clear Explanation Every iOS Developer Needs](https://gauravtakjaipur.medium.com/protocols-vs-delegates-in-swift-the-clear-explanation-every-ios-developer-needs-31916d4254d6?source=rss-223110f75295------2) *(Published on 6 Nov 2025)*
 - [SwiftUI Performance Secret: Why LazyVStack Should Replace Our VStack in ScrollViews](https://gauravtakjaipur.medium.com/swiftui-performance-secret-why-lazyvstack-should-replace-our-vstack-in-scrollviews-0d3b19bd9708?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [10 Essential Questions Every iOS Developer Should Master Before a Team Lead Interview](https://gauravtakjaipur.medium.com/10-essential-questions-every-ios-developer-should-master-before-a-team-lead-interview-dedf2b6f3c36?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [Why Mobile Apps Fail: Key Principles for Success Every Mobile Architect Should Know](https://gauravtakjaipur.medium.com/why-mobile-apps-fail-key-principles-for-success-every-mobile-architect-should-know-ce7ad842dec8?source=rss-223110f75295------2) *(Published on 4 Nov 2025)*
 - [Mastering Swift Concurrency: How Actors and Structured Tasks Make iOS Apps Safer and Faster](https://gauravtakjaipur.medium.com/mastering-swift-concurrency-how-actors-and-structured-tasks-make-ios-apps-safer-and-faster-88c169b2d655?source=rss-223110f75295------2) *(Published on 3 Nov 2025)*
-- [Escaping vs Non-Escaping Closures in Swift : The Deep Dive Every iOS Dev Should Know](https://gauravtakjaipur.medium.com/escaping-vs-non-escaping-closures-in-swift-the-deep-dive-every-ios-dev-should-know-117dfaff54b0?source=rss-223110f75295------2) *(Published on 30 Oct 2025)*
+- [Escaping vs Non-Escaping Closures in Swift : The Deep Dive Every iOS Dev Should Know](https://medium.com/techtrends-digest/escaping-vs-non-escaping-closures-in-swift-the-deep-dive-every-ios-dev-should-know-117dfaff54b0?source=rss-223110f75295------2) *(Published on 30 Oct 2025)*
 - [15+ Tricky Android Developer Interview Questions You Should Master (With Deep Explanations)](https://gauravtakjaipur.medium.com/15-tricky-android-developer-interview-questions-you-should-master-with-deep-explanations-4e0e6d9b7c89?source=rss-223110f75295------2) *(Published on 29 Oct 2025)*
 - [15+ Tricky iOS Developer Interview Questions You Should Master (With Deep Explanations)](https://gauravtakjaipur.medium.com/15-tricky-ios-developer-interview-questions-you-should-master-with-deep-explanations-36f545aa432e?source=rss-223110f75295------2) *(Published on 28 Oct 2025)*
 - [Bridging the Gap: Step-by-Step Guide to Integrate Native iOS SDK into React Native](https://gauravtakjaipur.medium.com/bridging-the-gap-step-by-step-guide-to-integrate-native-ios-sdk-into-react-native-5461ccab9229?source=rss-223110f75295------2) *(Published on 28 Oct 2025)*
-- [Step-by-Step Guide: Implement Face ID, Touch ID, or Passcode Authentication in Our iOS App…](https://gauravtakjaipur.medium.com/step-by-step-guide-implement-face-id-touch-id-or-passcode-authentication-in-our-ios-app-f53b3efa005b?source=rss-223110f75295------2) *(Published on 27 Oct 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
