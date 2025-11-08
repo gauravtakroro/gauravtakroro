@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravtakroro&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gauravtakdev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -94,12 +94,12 @@
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravtakroro&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtakroro&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravtakdev&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtakdev&theme=tokyonight" height="160px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravtakroro&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravtakdev&theme=tokyonight" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ### 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravtakroro&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravtakdev&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
