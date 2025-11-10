@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Tech Lead | iOS • Android • IoT Developer | Aspiring Engineering Manager</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravtak/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Tak-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-kumar-tak-977753348/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Tak-blue?logo=linkedin" /></a>
   <a href="https://medium.com/@gauravtakjaipur"><img src="https://img.shields.io/badge/Medium-%40gauravtakjaipur-black?logo=medium" /></a>
   <a href="mailto:gauravtak.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gauravtak.dev%40gmail.com-red?logo=gmail" /></a>
 </p>
@@ -115,7 +115,7 @@
 ### 🌍 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravtak/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Tak-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gaurav-kumar-tak-977753348/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Tak-blue?logo=linkedin" /></a>
   <a href="https://medium.com/@gauravtakjaipur"><img src="https://img.shields.io/badge/Medium-%40gauravtakjaipur-black?logo=medium" /></a>
   <a href="mailto:gauravtak.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gauravtak.dev%40gmail.com-red?logo=gmail" /></a>
 </p>
