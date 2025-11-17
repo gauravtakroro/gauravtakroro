@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [6 Stunning Geometric Activity Indicators We Can Build in SwiftUI](https://gauravtakjaipur.medium.com/6-stunning-geometric-activity-indicators-we-can-build-in-swiftui-96a15f195c0e?source=rss-223110f75295------2) *(Published on 17 Nov 2025)*
 - [Understanding the iOS App Life Cycle: UIKit vs SwiftUI Explained](https://gauravtakjaipur.medium.com/understanding-the-ios-app-life-cycle-uikit-vs-swiftui-explained-c115c020554c?source=rss-223110f75295------2) *(Published on 13 Nov 2025)*
 - [Understanding Copy-on-Write (COW) in Swift: The Hidden Performance Optimiser](https://gauravtakjaipur.medium.com/understanding-copy-on-write-cow-in-swift-the-hidden-performance-optimiser-3ffa59deb731?source=rss-223110f75295------2) *(Published on 11 Nov 2025)*
 - [Why SwiftUI Uses ‘some View’ Instead of ‘View’ : The Design Secret Every iOS Developer Should…](https://gauravtakjaipur.medium.com/why-swiftui-uses-some-view-instead-of-view-the-design-secret-every-ios-developer-should-45ad7d9056d4?source=rss-223110f75295------2) *(Published on 10 Nov 2025)*
@@ -84,7 +85,6 @@
 - [SwiftUI Performance Secret: Why LazyVStack Should Replace Our VStack in ScrollViews](https://medium.com/techtrends-digest/swiftui-performance-secret-why-lazyvstack-should-replace-our-vstack-in-scrollviews-0d3b19bd9708?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [10 Essential Questions Every iOS Developer Should Master Before a Team Lead Interview](https://medium.com/techtrends-digest/10-essential-questions-every-ios-developer-should-master-before-a-team-lead-interview-dedf2b6f3c36?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 - [Why Mobile Apps Fail: Key Principles for Success Every Mobile Architect Should Know](https://gauravtakjaipur.medium.com/why-mobile-apps-fail-key-principles-for-success-every-mobile-architect-should-know-ce7ad842dec8?source=rss-223110f75295------2) *(Published on 4 Nov 2025)*
-- [Mastering Swift Concurrency: How Actors and Structured Tasks Make iOS Apps Safer and Faster](https://medium.com/techtrends-digest/mastering-swift-concurrency-how-actors-and-structured-tasks-make-ios-apps-safer-and-faster-88c169b2d655?source=rss-223110f75295------2) *(Published on 3 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
