@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [6 Stunning Custom Activity Indicators in SwiftUI](https://gauravtakjaipur.medium.com/6-stunning-custom-activity-indicators-in-swiftui-e3beedf60bcb?source=rss-223110f75295------2) *(Published on 19 Nov 2025)*
 - [Swift’s Shorthand Optional Binding : The Clean, Modern, and Elegant Way](https://gauravtakjaipur.medium.com/swifts-shorthand-optional-binding-the-clean-modern-and-elegant-way-87acf5ee0437?source=rss-223110f75295------2) *(Published on 19 Nov 2025)*
 - [11 Handy Swift Extension Methods Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-handy-swift-extension-methods-every-ios-developer-should-know-86b57dae3c1e?source=rss-223110f75295------2) *(Published on 18 Nov 2025)*
 - [What Are Value-Based Systems? (With Swift, Kotlin, Java Examples)](https://gauravtakjaipur.medium.com/what-are-value-based-systems-with-swift-kotlin-java-examples-244411ce0d92?source=rss-223110f75295------2) *(Published on 17 Nov 2025)*
@@ -84,7 +85,6 @@
 - [Why SwiftUI Uses ‘some View’ Instead of ‘View’ : The Design Secret Every iOS Developer Should…](https://gauravtakjaipur.medium.com/why-swiftui-uses-some-view-instead-of-view-the-design-secret-every-ios-developer-should-45ad7d9056d4?source=rss-223110f75295------2) *(Published on 10 Nov 2025)*
 - [How to Get a Job in FAANGMULA in the AI Era (A Roadmap for CS Students)](https://gauravtakjaipur.medium.com/how-to-get-a-job-in-faangmula-in-the-ai-era-a-roadmap-for-cs-students-a60367e228d8?source=rss-223110f75295------2) *(Published on 8 Nov 2025)*
 - [Core Data vs SwiftData: The Ultimate Guide to Faster, Smarter iOS Apps](https://gauravtakjaipur.medium.com/core-data-vs-swiftdata-the-ultimate-guide-to-faster-smarter-ios-apps-a3e3495224b3?source=rss-223110f75295------2) *(Published on 7 Nov 2025)*
-- [Protocols vs Delegates in Swift: The Clear Explanation Every iOS Developer Needs](https://gauravtakjaipur.medium.com/protocols-vs-delegates-in-swift-the-clear-explanation-every-ios-developer-needs-31916d4254d6?source=rss-223110f75295------2) *(Published on 6 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
