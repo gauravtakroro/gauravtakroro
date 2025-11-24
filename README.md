@@ -82,9 +82,9 @@
 - [Understanding the iOS App Life Cycle: UIKit vs SwiftUI Explained](https://gauravtakjaipur.medium.com/understanding-the-ios-app-life-cycle-uikit-vs-swiftui-explained-c115c020554c?source=rss-223110f75295------2) *(Published on 13 Nov 2025)*
 - [Understanding Copy-on-Write (COW) in Swift: The Hidden Performance Optimiser](https://gauravtakjaipur.medium.com/understanding-copy-on-write-cow-in-swift-the-hidden-performance-optimiser-3ffa59deb731?source=rss-223110f75295------2) *(Published on 11 Nov 2025)*
 - [Why SwiftUI Uses ‘some View’ Instead of ‘View’ : The Design Secret Every iOS Developer Should…](https://gauravtakjaipur.medium.com/why-swiftui-uses-some-view-instead-of-view-the-design-secret-every-ios-developer-should-45ad7d9056d4?source=rss-223110f75295------2) *(Published on 10 Nov 2025)*
-- [How to Get a Job in FAANGMULA in the AI Era (A Roadmap for CS Students)](https://gauravtakjaipur.medium.com/how-to-get-a-job-in-faangmula-in-the-ai-era-a-roadmap-for-cs-students-a60367e228d8?source=rss-223110f75295------2) *(Published on 8 Nov 2025)*
 - [Core Data vs SwiftData: The Ultimate Guide to Faster, Smarter iOS Apps](https://gauravtakjaipur.medium.com/core-data-vs-swiftdata-the-ultimate-guide-to-faster-smarter-ios-apps-a3e3495224b3?source=rss-223110f75295------2) *(Published on 7 Nov 2025)*
 - [Protocols vs Delegates in Swift: The Clear Explanation Every iOS Developer Needs](https://gauravtakjaipur.medium.com/protocols-vs-delegates-in-swift-the-clear-explanation-every-ios-developer-needs-31916d4254d6?source=rss-223110f75295------2) *(Published on 6 Nov 2025)*
+- [SwiftUI Performance Secret: Why LazyVStack Should Replace Our VStack in ScrollViews](https://gauravtakjaipur.medium.com/swiftui-performance-secret-why-lazyvstack-should-replace-our-vstack-in-scrollviews-0d3b19bd9708?source=rss-223110f75295------2) *(Published on 5 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
