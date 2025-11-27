@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Swift Concurrency — @MainActor vs @GlobalActor in Swift: The Complete 2025 Guide Every iOS…](https://gauravtakjaipur.medium.com/swift-concurrency-mainactor-vs-globalactor-in-swift-the-complete-2025-guide-every-ios-c5aab821849f?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 - [Do We Still Need AppDelegate in iOS SwiftUI App?](https://gauravtakjaipur.medium.com/do-we-still-need-appdelegate-in-ios-swiftui-app-7d8994686cfa?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 - [iOS 17 Technical Changes Every iOS Developer Must Know(With Code Examples)](https://gauravtakjaipur.medium.com/ios-17-technical-changes-every-ios-developer-must-know-with-code-examples-e4ff745ec88d?source=rss-223110f75295------2) *(Published on 25 Nov 2025)*
 - [Async Inside Task in Swift: The Clean, Correct, and Modern Way (Most Devs Get This Wrong)](https://gauravtakjaipur.medium.com/async-inside-task-in-swift-the-clean-correct-and-modern-way-most-devs-get-this-wrong-12a9b7d5b56d?source=rss-223110f75295------2) *(Published on 20 Nov 2025)*
@@ -84,7 +85,6 @@
 - [Understanding the iOS App Life Cycle: UIKit vs SwiftUI Explained](https://gauravtakjaipur.medium.com/understanding-the-ios-app-life-cycle-uikit-vs-swiftui-explained-c115c020554c?source=rss-223110f75295------2) *(Published on 13 Nov 2025)*
 - [Understanding Copy-on-Write (COW) in Swift: The Hidden Performance Optimiser](https://gauravtakjaipur.medium.com/understanding-copy-on-write-cow-in-swift-the-hidden-performance-optimiser-3ffa59deb731?source=rss-223110f75295------2) *(Published on 11 Nov 2025)*
 - [Why SwiftUI Uses ‘some View’ Instead of ‘View’ : The Design Secret Every iOS Developer Should…](https://gauravtakjaipur.medium.com/why-swiftui-uses-some-view-instead-of-view-the-design-secret-every-ios-developer-should-45ad7d9056d4?source=rss-223110f75295------2) *(Published on 10 Nov 2025)*
-- [Core Data vs SwiftData: The Ultimate Guide to Faster, Smarter iOS Apps](https://gauravtakjaipur.medium.com/core-data-vs-swiftdata-the-ultimate-guide-to-faster-smarter-ios-apps-a3e3495224b3?source=rss-223110f75295------2) *(Published on 7 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
