@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [The Simplest Way to Discover Nearby Bluetooth Devices in SwiftUI (With Code)](https://gauravtakjaipur.medium.com/the-simplest-way-to-discover-nearby-bluetooth-devices-in-swiftui-with-code-135fe0d69b6a?source=rss-223110f75295------2) *(Published on 30 Nov 2025)*
 - [Swift Concurrency — @MainActor vs @GlobalActor in Swift: The Complete 2025 Guide Every iOS…](https://gauravtakjaipur.medium.com/swift-concurrency-mainactor-vs-globalactor-in-swift-the-complete-2025-guide-every-ios-c5aab821849f?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 - [Do We Still Need AppDelegate in iOS SwiftUI App?](https://gauravtakjaipur.medium.com/do-we-still-need-appdelegate-in-ios-swiftui-app-7d8994686cfa?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 - [iOS 17 Technical Changes Every iOS Developer Must Know(With Code Examples)](https://gauravtakjaipur.medium.com/ios-17-technical-changes-every-ios-developer-must-know-with-code-examples-e4ff745ec88d?source=rss-223110f75295------2) *(Published on 25 Nov 2025)*
@@ -84,7 +85,6 @@
 - [What Are Value-Based Systems? (With Swift, Kotlin, Java Examples)](https://gauravtakjaipur.medium.com/what-are-value-based-systems-with-swift-kotlin-java-examples-244411ce0d92?source=rss-223110f75295------2) *(Published on 17 Nov 2025)*
 - [Understanding the iOS App Life Cycle: UIKit vs SwiftUI Explained](https://gauravtakjaipur.medium.com/understanding-the-ios-app-life-cycle-uikit-vs-swiftui-explained-c115c020554c?source=rss-223110f75295------2) *(Published on 13 Nov 2025)*
 - [Understanding Copy-on-Write (COW) in Swift: The Hidden Performance Optimiser](https://gauravtakjaipur.medium.com/understanding-copy-on-write-cow-in-swift-the-hidden-performance-optimiser-3ffa59deb731?source=rss-223110f75295------2) *(Published on 11 Nov 2025)*
-- [Why SwiftUI Uses ‘some View’ Instead of ‘View’ : The Design Secret Every iOS Developer Should…](https://gauravtakjaipur.medium.com/why-swiftui-uses-some-view-instead-of-view-the-design-secret-every-ios-developer-should-45ad7d9056d4?source=rss-223110f75295------2) *(Published on 10 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
