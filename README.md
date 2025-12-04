@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [10 Real-World Examples of Higher-Order Functions Every iOS Developer Should Know (Swift)](https://gauravtakjaipur.medium.com/10-real-world-examples-of-higher-order-functions-every-ios-developer-should-know-swift-29065ba7665a?source=rss-223110f75295------2) *(Published on 4 Dec 2025)*
 - [How IoT and AI Are Transforming the Sports & Gaming Industry: From Smart Stadiums to Hyper-Real…](https://gauravtakjaipur.medium.com/how-iot-and-ai-are-transforming-the-sports-gaming-industry-from-smart-stadiums-to-hyper-real-b2c8d07aa3cd?source=rss-223110f75295------2) *(Published on 3 Dec 2025)*
 - [SwiftUI Memory: The Invisible Bugs That Slow Down Our App (and How to Fix Them)](https://gauravtakjaipur.medium.com/swiftui-memory-the-invisible-bugs-that-slow-down-our-app-and-how-to-fix-them-b21a47cf3c81?source=rss-223110f75295------2) *(Published on 3 Dec 2025)*
 - [The Simplest Way to Discover Nearby Bluetooth Devices in SwiftUI (With Code)](https://gauravtakjaipur.medium.com/the-simplest-way-to-discover-nearby-bluetooth-devices-in-swiftui-with-code-135fe0d69b6a?source=rss-223110f75295------2) *(Published on 30 Nov 2025)*
@@ -84,7 +85,6 @@
 - [Async Inside Task in Swift: The Clean, Correct, and Modern Way (Most Devs Get This Wrong)](https://gauravtakjaipur.medium.com/async-inside-task-in-swift-the-clean-correct-and-modern-way-most-devs-get-this-wrong-12a9b7d5b56d?source=rss-223110f75295------2) *(Published on 20 Nov 2025)*
 - [Swift’s Shorthand Optional Binding : The Clean, Modern, and Elegant Way](https://gauravtakjaipur.medium.com/swifts-shorthand-optional-binding-the-clean-modern-and-elegant-way-87acf5ee0437?source=rss-223110f75295------2) *(Published on 19 Nov 2025)*
 - [11 Handy Swift Extension Methods Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-handy-swift-extension-methods-every-ios-developer-should-know-86b57dae3c1e?source=rss-223110f75295------2) *(Published on 18 Nov 2025)*
-- [What Are Value-Based Systems? (With Swift, Kotlin, Java Examples)](https://gauravtakjaipur.medium.com/what-are-value-based-systems-with-swift-kotlin-java-examples-244411ce0d92?source=rss-223110f75295------2) *(Published on 17 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
