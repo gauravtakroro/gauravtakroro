@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [Step-by-Step Guide: How to Implement NavigationStack + NavigationPath in SwiftUI (with Code…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-implement-navigationstack-navigationpath-in-swiftui-with-code-714d08ba619c?source=rss-223110f75295------2) *(Published on 10 Dec 2025)*
 - [Top 10 iOS Development Skills to Master in 2025 (With Code Examples)](https://gauravtakjaipur.medium.com/top-10-ios-development-skills-to-master-in-2025-with-code-examples-a40038b83085?source=rss-223110f75295------2) *(Published on 5 Dec 2025)*
 - [10 Real-World Examples of Higher-Order Functions Every iOS Developer Should Know (Swift)](https://gauravtakjaipur.medium.com/10-real-world-examples-of-higher-order-functions-every-ios-developer-should-know-swift-29065ba7665a?source=rss-223110f75295------2) *(Published on 4 Dec 2025)*
 - [SwiftUI Memory: The Invisible Bugs That Slow Down Our App (and How to Fix Them)](https://gauravtakjaipur.medium.com/swiftui-memory-the-invisible-bugs-that-slow-down-our-app-and-how-to-fix-them-b21a47cf3c81?source=rss-223110f75295------2) *(Published on 3 Dec 2025)*
@@ -84,7 +85,6 @@
 - [iOS 17 Technical Changes Every iOS Developer Must Know(With Code Examples)](https://gauravtakjaipur.medium.com/ios-17-technical-changes-every-ios-developer-must-know-with-code-examples-e4ff745ec88d?source=rss-223110f75295------2) *(Published on 25 Nov 2025)*
 - [Async Inside Task in Swift: The Clean, Correct, and Modern Way (Most Devs Get This Wrong)](https://gauravtakjaipur.medium.com/async-inside-task-in-swift-the-clean-correct-and-modern-way-most-devs-get-this-wrong-12a9b7d5b56d?source=rss-223110f75295------2) *(Published on 20 Nov 2025)*
 - [Swift’s Shorthand Optional Binding : The Clean, Modern, and Elegant Way](https://gauravtakjaipur.medium.com/swifts-shorthand-optional-binding-the-clean-modern-and-elegant-way-87acf5ee0437?source=rss-223110f75295------2) *(Published on 19 Nov 2025)*
-- [11 Handy Swift Extension Methods Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-handy-swift-extension-methods-every-ios-developer-should-know-86b57dae3c1e?source=rss-223110f75295------2) *(Published on 18 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
