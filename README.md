@@ -75,6 +75,7 @@
 
 ### 📝 Latest Medium Blog Posts
 <!-- MEDIUM-BLOG-START -->
+- [11 Essential Swift Modifiers Every iOS Developer Should Know](https://gauravtakjaipur.medium.com/11-essential-swift-modifiers-every-ios-developer-should-know-ff23126add2d?source=rss-223110f75295------2) *(Published on 11 Dec 2025)*
 - [Step-by-Step Guide: How to Implement NavigationStack + NavigationPath in SwiftUI (with Code…](https://gauravtakjaipur.medium.com/step-by-step-guide-how-to-implement-navigationstack-navigationpath-in-swiftui-with-code-714d08ba619c?source=rss-223110f75295------2) *(Published on 10 Dec 2025)*
 - [Top 10 iOS Development Skills to Master in 2025 (With Code Examples)](https://gauravtakjaipur.medium.com/top-10-ios-development-skills-to-master-in-2025-with-code-examples-a40038b83085?source=rss-223110f75295------2) *(Published on 5 Dec 2025)*
 - [10 Real-World Examples of Higher-Order Functions Every iOS Developer Should Know (Swift)](https://gauravtakjaipur.medium.com/10-real-world-examples-of-higher-order-functions-every-ios-developer-should-know-swift-29065ba7665a?source=rss-223110f75295------2) *(Published on 4 Dec 2025)*
@@ -84,7 +85,6 @@
 - [Do We Still Need AppDelegate in iOS SwiftUI App?](https://gauravtakjaipur.medium.com/do-we-still-need-appdelegate-in-ios-swiftui-app-7d8994686cfa?source=rss-223110f75295------2) *(Published on 27 Nov 2025)*
 - [iOS 17 Technical Changes Every iOS Developer Must Know(With Code Examples)](https://gauravtakjaipur.medium.com/ios-17-technical-changes-every-ios-developer-must-know-with-code-examples-e4ff745ec88d?source=rss-223110f75295------2) *(Published on 25 Nov 2025)*
 - [Async Inside Task in Swift: The Clean, Correct, and Modern Way (Most Devs Get This Wrong)](https://gauravtakjaipur.medium.com/async-inside-task-in-swift-the-clean-correct-and-modern-way-most-devs-get-this-wrong-12a9b7d5b56d?source=rss-223110f75295------2) *(Published on 20 Nov 2025)*
-- [Swift’s Shorthand Optional Binding : The Clean, Modern, and Elegant Way](https://gauravtakjaipur.medium.com/swifts-shorthand-optional-binding-the-clean-modern-and-elegant-way-87acf5ee0437?source=rss-223110f75295------2) *(Published on 19 Nov 2025)*
 <!-- MEDIUM-BLOG-END -->
 
 > 🔄 *This section auto-updates with my latest Medium posts every few hours.*
